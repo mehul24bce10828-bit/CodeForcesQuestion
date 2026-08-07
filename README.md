@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 6 |
+| 25 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (16)
-- [math](#math) (5)
+- [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -67,6 +67,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 
 ### sortings
 
