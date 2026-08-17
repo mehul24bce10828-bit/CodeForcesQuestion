@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 6 |
+| 26 | 6 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
@@ -55,6 +55,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 
