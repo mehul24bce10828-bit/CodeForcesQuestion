@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 6 |
+| 28 | 6 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (7)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
@@ -45,6 +45,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
