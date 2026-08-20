@@ -1,0 +1,19 @@
+import java.util.Scanner;
+ 
+public class ATranslation {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        String s = sc.next();
+        String t = sc.next();
+        
+        String reversedS = new StringBuilder(s).reverse().toString();
+        
+        if (s.length() == t.length() && reversedS.equals(t)) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
+        
+    }
+}
