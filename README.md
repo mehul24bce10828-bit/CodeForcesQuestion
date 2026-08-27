@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 6 |
+| 36 | 6 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (7)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -67,6 +67,7 @@
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1722/A%20-%20Spell%20Check/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
 
 ### math
 
