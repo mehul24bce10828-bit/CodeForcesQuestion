@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 6 |
+| 37 | 6 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (26)
-- [math](#math) (7)
-- [sortings](#sortings) (1)
+- [math](#math) (8)
+- [sortings](#sortings) (2)
 - [strings](#strings) (6)
 
 ---
@@ -80,12 +80,14 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/mehul24bce10828-bit/CodeForcesQuestion/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
 
